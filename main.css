@@ -1,0 +1,39 @@
+body {
+  background-color : #F0FFFF;
+}
+
+body{
+  text-align: center;
+}
+h3{
+  color: rgb(205,14,45);
+    text-decoration: underline;
+}
+h2{
+  color: rgb(0,204,204)
+}
+
+#any{
+  color:white;
+}
+
+span{
+  background-color:rgb(0,204,204);
+}
+
+.featured{
+  background-color: #a52928;
+    font-family: Helvetica;
+  border:6px double;
+  width: 700px;
+  height: 300px;
+  padding 40px 25px 15px 30px;
+  font-size: 24px;
+  border-radius: 50px;
+  margin: 30px 20px 40px 70px;
+}
+.content{
+  background-color: #bbbbbb;
+  border: 10px solid orange;
+  
+}
